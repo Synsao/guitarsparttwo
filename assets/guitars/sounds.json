@@ -1,0 +1,62 @@
+{
+  "hit": {
+    "subtitle": "Hit",
+    "sounds": [
+      {
+        "name": "guitars:hit",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "hit2": {
+    "subtitle": "Hit",
+    "sounds": [
+      {
+        "name": "guitars:hit2",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "hit3": {
+    "subtitle": "Hit",
+    "sounds": [
+      {
+        "name": "guitars:hit3",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "hit4": {
+    "subtitle": "Hit",
+    "sounds": [
+      {
+        "name": "guitars:hit4",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "dash": {
+    "subtitle": "Dash",
+    "sounds": [
+      {
+        "name": "guitars:dash",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "fan": {
+    "subtitle": "I'm gonna be real I don't even know",
+    "sounds": [
+      {
+        "name": "guitars:xichunFanSound",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+}
