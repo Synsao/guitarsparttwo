@@ -58,5 +58,35 @@
         "preload": true
       }
     ]
+  },
+  "b_hit5": {
+    "subtitle": "Hit",
+    "sounds": [
+      {
+        "name": "guitars:hit5",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "honglu": {
+    "subtitle": "Hong Lu clip that",
+    "sounds": [
+      {
+        "name": "guitars:honglu",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "omen": {
+    "subtitle": "Is that the red mist?",
+    "sounds": [
+      {
+        "name": "guitars:omen",
+        "stream": true,
+        "preload": true
+      }
+    ]
   }
 }
