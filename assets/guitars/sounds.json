@@ -1,5 +1,5 @@
 {
-  "hit": {
+  "b_hit": {
     "subtitle": "Hit",
     "sounds": [
       {
@@ -9,7 +9,7 @@
       }
     ]
   },
-  "hit2": {
+  "b_hit2": {
     "subtitle": "Hit",
     "sounds": [
       {
@@ -19,7 +19,7 @@
       }
     ]
   },
-  "hit3": {
+  "b_hit3": {
     "subtitle": "Hit",
     "sounds": [
       {
@@ -29,7 +29,7 @@
       }
     ]
   },
-  "hit4": {
+  "b_hit4": {
     "subtitle": "Hit",
     "sounds": [
       {
