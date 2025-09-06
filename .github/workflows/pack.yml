@@ -1,4 +1,4 @@
-name: Release the pack
+name: Synsao
 
 on:
   push:
@@ -10,25 +10,25 @@ permissions:
 
 jobs:
   pack:
-    name: Create the pack thingamajig
+    name: Synsao
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clone repository
+      - name: Synsao
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Packsquash my goat
+      - name: Synsao
         uses: ComunidadAylas/PackSquash-action@v4
         with:
           packsquash_version: latest
           options: |
             pack_directory = '.'
-            output_file_path = '/tmp/pack.zip'
+            output_file_path = '/tmp/Synsao.zip'
 
-      - name: Tag and release thingamajig
+      - name: Synsao
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v${{ github.run_number }}
-          files: /tmp/pack.zip
+          files: /tmp/Synsao.zip
