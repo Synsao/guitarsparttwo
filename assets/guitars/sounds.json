@@ -69,6 +69,36 @@
       }
     ]
   },
+  "b_hit6": {
+    "subtitle": "Hit",
+    "sounds": [
+      {
+        "name": "guitars:hit6",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "b_hit7": {
+    "subtitle": "Hit",
+    "sounds": [
+      {
+        "name": "guitars:hit7",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "b_hit8": {
+    "subtitle": "Hit",
+    "sounds": [
+      {
+        "name": "guitars:hit8",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
   "honglu": {
     "subtitle": "Hong Lu clip that",
     "sounds": [
@@ -79,11 +109,61 @@
       }
     ]
   },
+  "lowhit": {
+    "subtitle": "Hit (But low this time LOL!!)",
+    "sounds": [
+      {
+        "name": "guitars:lowHit",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "slash": {
+    "subtitle": "Fourty Million Subscribers",
+    "sounds": [
+      {
+        "name": "guitars:slash",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "slash2": {
+    "subtitle": "Fourty Million Subscribers",
+    "sounds": [
+      {
+        "name": "guitars:slash2",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "slash3": {
+    "subtitle": "Fourty Million Subscribers",
+    "sounds": [
+      {
+        "name": "guitars:slash3",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
   "omen": {
     "subtitle": "Is that the red mist?",
     "sounds": [
       {
         "name": "guitars:omen",
+        "stream": true,
+        "preload": true
+      }
+    ]
+  },
+  "omen2": {
+    "subtitle": "Is that the red gaze?",
+    "sounds": [
+      {
+        "name": "guitars:omen2",
         "stream": true,
         "preload": true
       }
