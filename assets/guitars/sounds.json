@@ -168,5 +168,15 @@
         "preload": true
       }
     ]
+  },
+  "alpha_bow": {
+    "subtitle": "The wicked witch of the east returns!",
+    "sounds": [
+      {
+        "name": "guitars:alpha_bow",
+        "stream": true,
+        "preload": true
+      }
+    ]
   }
 }
