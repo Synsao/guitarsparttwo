@@ -178,5 +178,15 @@
         "preload": true
       }
     ]
+  },
+  "donttaptheglass": {
+    "subtitle": "Don't tap the glass! Don't tap the glaa-a-ass!",
+    "sounds": [
+      {
+        "name": "guitars:donttaptheglass",
+        "stream": true,
+        "preload": true
+      }
+    ]
   }
 }
